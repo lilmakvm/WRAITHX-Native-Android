@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WRAITHX</string>
+    <string name="accessibility_description">Allows WRAITHX to open Android Quick Settings when you tap Control Center. Enable only if you want this shortcut.</string>
+</resources>
